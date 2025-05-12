@@ -21,4 +21,3 @@ This Helm chart defines the Kubernetes infrastructure for the Demo Application. 
 
 ---
 
-*This chart encapsulates deployment patterns for a containerized application with appropriate networking, scaling, and security configurations.*
