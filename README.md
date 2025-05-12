@@ -18,6 +18,6 @@ This Helm chart defines the Kubernetes infrastructure for the Demo Application. 
 - **Security**: Private registry authentication, TLS encryption, and network isolation
 - **Resource Efficiency**: Demand-based scaling with defined utilization thresholds
 - **Performance**: Horizontal scaling architecture with efficient traffic routing
-
+- **Continuous Delivery**: ArgoCD integration enables GitOps workflows with automatic synchronization between the Git repository and cluster state
 ---
 
