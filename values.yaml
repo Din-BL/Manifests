@@ -29,9 +29,6 @@ autoscaling:
   targetCPUUtilizationPercentage: 80
   targetMemoryUtilizationPercentage: 75
 
-serviceAccount:
-  create: false
-
 ingress:
   create: true  
   className: nginx  
