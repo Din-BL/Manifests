@@ -3,6 +3,7 @@
 ## Overview
 
 This Helm chart defines the Kubernetes infrastructure for the Demo Application. It establishes a deployment with rolling updates, autoscaling capabilities, internal service routing, and secure external access.
+The chart integrates with ArgoCD for automatic deployment and continuous delivery operations.
 
 ## Architecture Components
 
@@ -19,5 +20,5 @@ This Helm chart defines the Kubernetes infrastructure for the Demo Application. 
 - **Resource Efficiency**: Demand-based scaling with defined utilization thresholds
 - **Performance**: Horizontal scaling architecture with efficient traffic routing
 - **Continuous Delivery**: ArgoCD integration enables GitOps workflows with automatic synchronization between the Git repository and cluster state
----
 
+---
