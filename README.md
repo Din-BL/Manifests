@@ -22,3 +22,7 @@ The chart integrates with ArgoCD for automatic deployment and continuous deliver
 - **Continuous Delivery**: ArgoCD integration enables GitOps workflows with automatic synchronization between the Git repository and cluster state
 
 ---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d86bbff-5319-4c9d-8c27-99b93b92014a" alt="Image 1" width="400"/>
+</p>
